@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-box-sizing: border-box;
+    @apply box-border m-0 p-0;
+  }
+  body {
+    @apply bg-black-100 text-white overflow-x-hidden;
+  }
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-[#f1f1f1];
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-[#555] hover:bg-[#444];
+  }
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+@layer components {
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+}
+
+@layer utilities {
+  .backdrop-blur-sm {
+    -webkit-backdrop-filter: blur(4px);
+  }
+}

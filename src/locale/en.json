@@ -1,0 +1,79 @@
+{
+  "NavbarItems": {
+    "item1": "Home",
+    "item2": "About",
+    "item3": "Projects",
+    "item4": "Contact"
+  },
+  "HeroSectionData": {
+    "title": "Transforming Concepts into Seamless User Experiences",
+    "description": "I Create Websites That Are",
+    "whoIAm": "Hi i'm Yahya, a Next.js Frontend Developer based in Egypt.",
+    "primaryBtnText": "CV",
+    "secondaryBtnText": "Show my work",
+    "offlineText": "Come Back Online to complete browsing."
+  },
+  "AboutSectionData": {
+    "box1": {
+      "title": "I prioritize collaboration and clear communication to build great web solutions."
+    },
+    "box2": {
+      "title": "MODERN TOOLS & TECHNOLOGIES",
+      "description": "My tech stack"
+    },
+    "box3": {
+      "title": "Do you want to start a project together?",
+      "emailCopyMessage": "Copy my email address",
+      "emailCopiedMessage": "Email is Copied!"
+    }
+  },
+  "RecentProjectsSectionData": {
+    "title": {
+      "partOne": "My",
+      "partTwo": "Recent Projects"
+    },
+    "buttonText": {
+      "showMore": "Show More",
+      "showLess": "Show Less"
+    }
+  },
+  "WorkProcessSectionData": {
+    "title": {
+      "partOne": "Our",
+      "partTwo": "Work Process"
+    },
+    "stage1": {
+      "title": "Initial Consultation",
+      "description": "We start with a comprehensive discussion to understand your goals, requirements, and vision for the project. This step ensures that we are aligned and can create a roadmap for success."
+    },
+    "stage2": {
+      "title": "Design and Development",
+      "description": "During this phase, we create wireframes and prototypes, then develop the website. Throughout, we maintain open communication, provide regular updates, and seek your feedback to keep the project on track."
+    },
+    "stage3": {
+      "title": "Review and Launch",
+      "description": "In the final step, we conduct thorough testing and make any necessary adjustments based on your feedback. Once everything is approved, we launch your website, ensuring a smooth and successful deployment."
+    },
+    "next-button": "Next Step",
+    "prev-button": "Go Back"
+  },
+  "ContactSectionData": {
+    "title": {
+      "partOne": "Ready to bring",
+      "partTwo": "your vision",
+      "partThree": "to life?"
+    },
+    "smallText": "Reach me out and let's turn all your ideas into reality together.",
+    "buttonText": "Get in touch"
+  },
+  "Modal": {
+    "title": "Let's Get in Touch!",
+    "button": "Send Message",
+    "input1": "Enter your name",
+    "input2": "Enter email address",
+    "input3": "Enter your message"
+  },
+  "FooterData": {
+    "text": "Copyrights © 2024 Yahya-HM"
+  }
+}
